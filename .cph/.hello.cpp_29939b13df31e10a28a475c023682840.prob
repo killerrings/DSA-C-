@@ -1,0 +1,1 @@
+{"name":"Local: hello","url":"c:\\Users\\user\\Desktop\\Learn\\c++\\hello.cpp","tests":[{"id":1643401483788,"input":"3","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\user\\Desktop\\Learn\\c++\\hello.cpp","group":"local","local":true}

@@ -2,19 +2,6 @@
 
 using namespace std;
 
-int max(int arr[], int n)
-{
-    int pointer = 0;
-    for (int i = 0; i < n; i++)
-    {
-        if (arr[i] > pointer)
-        {
-            pointer = arr[i];
-        }
-    }
-    return pointer;
-}
-
 int main()
 {
     int n;
